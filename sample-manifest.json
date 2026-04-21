@@ -1,12 +1,12 @@
 {
-  "export_job_id": "bd6ac11c-c3ce-4926-999e-2b52acb33803",
+  "export_job_id": "9aa216db-4111-4e57-9177-de317c4d1c72",
   "id_short": 607332,
-  "published_at": "2026-04-17T19:44:41Z",
+  "published_at": "2026-04-21T19:36:21Z",
   "repo_name": "all-restaurants-in-rochester-hills-michigan-us-sample-607332",
   "sample_asset_name": "beamstation_607332_restaurants-us-mi_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/607332/beamstation_607332_restaurants-us-mi_SAMPLE_DIST.csv",
-  "sample_records": 22,
-  "sample_sha256": "259668c2739b30a26151de3ce28568da0e140ba9646a8dceb8c99c65871b7fd4",
-  "sample_size_bytes": 100585,
-  "total_records": 221
+  "sample_records": 15,
+  "sample_sha256": "fe96686e053f7ec149271846a4c9ca106a0fdce59f1afc22e22c16cd87c34484",
+  "sample_size_bytes": 75982,
+  "total_records": 154
 }
